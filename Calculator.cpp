@@ -97,6 +97,5 @@ int main()
         }
 
         SaveHistory(history);
-   
     }
 };
