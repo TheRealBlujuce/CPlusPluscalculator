@@ -2,7 +2,7 @@
 
 I wanted to learn a bit more about C++ so I wrote a small calculator that also saves and loads previous calculations
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/whItD6HaYsA)
 
 # Development Environment
 
